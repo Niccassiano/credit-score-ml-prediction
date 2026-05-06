@@ -136,8 +136,14 @@ from sklearn.metrics import accuracy_score
 tabela_nova = pd.read_csv("novos_clientes.csv")
 previsao = modelo_arvoredecisao.predict(tabela_nova)
 ```
+---
+
+```python
+| Desenvolvido por Nicolle Cassiano 💻🦖
+```
 
 ---
+
 
 
 
